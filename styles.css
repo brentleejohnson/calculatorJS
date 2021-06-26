@@ -41,4 +41,5 @@ button {
   padding-right: 16px;
   background-color: #ececec;
   /* Must hide the overflow */
+  overflow: hidden;
 }
